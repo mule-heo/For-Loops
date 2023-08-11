@@ -1,6 +1,8 @@
 # code-kata
 sujinleeme 님께서 운영하시는 for-loops 디스코드 채널의 매일퀴즈를 정리합니다.
 
+<br><hr><br>
+
 # 브랜치 활용
 
 ## 단방향 흐름
@@ -29,7 +31,9 @@ main 브랜치로부터 문제를 pull하여 활용합니다.
 
 또한, 문제별로 디렉토리를 별도로 생성하여 문제 파일, 풀이 파일을 함께 관리하는 것도 좋은 방법 중 하나입니다.
 
-# 주요 커밋 키워드
+<br><hr><br>
+
+# 커밋 컨벤션
 
 <table>
 <tr>
@@ -58,6 +62,14 @@ Rename
 </td>
 <td align="left">
 파일명을 변경하거나 디렉토리를 변경합니다.
+</td>
+</tr>
+<tr>
+<td align="center">
+Remove
+</td>
+<td align="left">
+파일을 제거합니다.
 </td>
 </tr>
 <tr>
