@@ -19,6 +19,7 @@ c. false false false
 
 d. true false true
 
+<br><hr><br>
 
 참조 자료형과 mutable 메서드에 관한 문제입니다.
 
