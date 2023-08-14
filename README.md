@@ -108,7 +108,3 @@ Readme 등 관련 문서를 추가/수정합니다.
 </td>
 </tr>
 </table>
-
-## 부가 정보
-
-업로드된 모든 문제의 저작권은 [sujinleeme](https://github.com/sujinleeme) 님께 있습니다.
