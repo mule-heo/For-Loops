@@ -53,6 +53,10 @@
 
     logThings('mule', 1, true, [1, 2], { name: 'mule' });
     // -> [1, 2, true, false, 1, Array(3), Object]
+
+    // 제네릭 타입을 전달하면 나머지 인자를 원하는 타입으로 한정할 수 있습니다.
+    logThings<boolean[]>('mule', true, false);
+    // -> [true, false]
     ```
 
 출제 레퍼런스: https://learntypescript.dev/06/l8-generic-rest
